@@ -11,13 +11,13 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Theme Redefine
+  title: RuisSのBlog
   # Site subtitle
-  subtitle: Redefine Your Hexo Journey.
+  subtitle: Stay hungry,stay foolish.
   # Author name
-  author: The Redefine Team
+  author: RuisS
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://ruissyyf.github.io
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -29,7 +29,7 @@ defaults:
   # Site logo
   logo: 
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: https://avatars.githubusercontent.com/u/182759529?v=4
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
