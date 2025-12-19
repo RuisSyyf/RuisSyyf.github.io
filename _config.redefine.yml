@@ -25,7 +25,7 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /source/images/kana.jpg
+  favicon: /source/kanaico.ico
   # Site logo
   logo: 
   # Site avatar
@@ -131,13 +131,13 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: /images/mujica1.png # light mode
-    dark: /images/mujica1.png # dark mode
+    light: /images/mujica2.png # light mode
+    dark: /images/mujica2.png # dark mode
   # Home banner title
-  title: 照らされた世界 咲き誇る大切な人
+  title: Ave Mujica
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: [照らされた世界 咲き誇る大切な人] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
