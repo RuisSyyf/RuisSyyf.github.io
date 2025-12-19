@@ -25,7 +25,7 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /source/kanaico.ico
+  favicon: /images/kanaico16.ico
   # Site logo
   logo: 
   # Site avatar
