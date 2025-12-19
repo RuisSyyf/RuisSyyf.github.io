@@ -134,7 +134,7 @@ home_banner:
     light: /images/mujica2.png # light mode
     dark: /images/mujica2.png # dark mode
   # Home banner title
-  title: Ave Mujica
+  title: Oblivionis
   # Home banner subtitle
   subtitle:
     text: [照らされた世界 咲き誇る大切な人] # subtitle text, array
@@ -208,6 +208,13 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
+    Tags: #取名随意
+      icon: fa-solid fa-tags #图标
+      path: /tags/ #链接
+    links:
+        Categories: #取名随意
+            icon: fa-solid fa-folder #图标
+            path: /categories/ #链接
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
